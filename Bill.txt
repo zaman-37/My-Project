@@ -1,0 +1,20 @@
+
+	calculator : 1500 : 6
+
+
+	egg : 30 : 83
+
+	tea : 50 : 40
+
+	sugger : 70 : 8
+
+	soap : 100 : 43
+
+	potato : 50 : 98
+
+	mobile : 5000 : 9
+
+	T-Shirt : 250 : 28
+
+	Laptop : 3000 : 9
+
